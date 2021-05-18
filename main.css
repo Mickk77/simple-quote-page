@@ -1,3 +1,21 @@
-h1 {
-    color: green;
+body {
+    background-image: url(assets/Topic-Religious-Freedom-in-Canada-Banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.quote {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:xx-large;
+    font-weight:lighter;
+}
+.main {
+    margin: 6%;
+}
+h5 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: 100;
 }
