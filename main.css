@@ -1,8 +1,8 @@
 body {
     background-image: url(assets/Topic-Religious-Freedom-in-Canada-Banner.jpg);
     background-repeat: no-repeat;
-    
-    background-size: 100% auto;
+    background-size: cover;
+    min-width: 480px;
 }
 .quote {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
